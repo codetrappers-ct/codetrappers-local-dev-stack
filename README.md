@@ -1,12 +1,12 @@
-# Coetrappers Local Dev Stack
+# Codetrappers Local Dev Stack
 
-`coetrappers-local-dev-stack` is a local development stack for the Coetrappers project set.
+`codetrappers-local-dev-stack` is a local development stack for the Codetrappers project set.
 Docker-based local environment for WordPress development.
 The codebase is scaffolded to be a clean starting point, not a complete production feature.
 
 ## Project Summary
 
-- Slug: `coetrappers-local-dev-stack`
+- Slug: `codetrappers-local-dev-stack`
 - Type: Local development stack
 - Focus: docker, local, dev
 
